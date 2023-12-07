@@ -1,4 +1,4 @@
 # semantic-refactor
 A study in refactoring HTML semantics
 
-We are changing things
+We are changing things here
